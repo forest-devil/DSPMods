@@ -1,0 +1,10 @@
+<#@output encoding="utf-8"#>
+{
+  "name": "<#= PluginInfo.FRIENDLY_NAME #>",
+  "version_number": "<#= PluginInfo.VERSION #>",
+  "website_url": "<#= PluginInfo.URL #>",
+  "description": "<#= PluginInfo.DESCRIPTION #>",
+  "dependencies": [
+    "xiaoye97-BepInEx-5.4.17"
+  ]
+}

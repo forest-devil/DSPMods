@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSPMods.MoreFluids", "DSPMods.MoreFluids\DSPMods.MoreFluids.csproj", "{17188156-6352-4D95-B70B-ACD27587490B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17188156-6352-4D95-B70B-ACD27587490B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17188156-6352-4D95-B70B-ACD27587490B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17188156-6352-4D95-B70B-ACD27587490B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17188156-6352-4D95-B70B-ACD27587490B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A61819F9-09E2-47E4-9872-B13598DBA650}
+	EndGlobalSection
+EndGlobal
